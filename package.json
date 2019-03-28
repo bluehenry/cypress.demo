@@ -1,0 +1,25 @@
+{
+  "name": "cypress.demo",
+  "version": "1.0.0",
+  "description": "Cypress is a next-generation automation testing tool. It's a demo to show how to use Cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluehenry/cypress.demo.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Henry Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluehenry/cypress.demo/issues"
+  },
+  "homepage": "https://github.com/bluehenry/cypress.demo#readme",
+  "dependencies": {
+    "cypress": "^3.2.0"
+  }
+}
