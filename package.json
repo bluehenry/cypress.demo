@@ -20,10 +20,10 @@
   },
   "homepage": "https://github.com/bluehenry/cypress.demo#readme",
   "devDependencies": {
-    "cypress": "^3.3.0",
+    "cypress": "^11.2.0",
     "cypress-image-snapshot": "^3.0.2",
     "jest": "^23.6.0",
-    "mocha": "^5.2.0",
+    "mocha": "^10.1.0",
     "mocha-multi-reporters": "^1.1.7",
     "mochawesome": "^3.1.2",
     "mochawesome-merge": "^1.0.7",
