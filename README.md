@@ -1,5 +1,5 @@
 # cypress.demo
-Cypress is a JavaScript open source testing framework, which provide fast and reliable testing for web apps, compared with Selenium/WebDriver.
+Cypress (https://www.cypress.io/) is a JavaScript open source testing framework, which provide fast and reliable testing for web apps, compared with Selenium/WebDriver.
 
 Cypress.io is a relatively new framework designed to overcome many shortcomings found in Selenium, Phantom.js, and others before them. It uses an event-based architecture that hooks into Google Chrome’s lifecycle events, enabling it to wait for things like Ajax requests to complete without using a polling/timeout mechanism. This leads to reliable and fast tests.
 
