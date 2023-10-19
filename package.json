@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/bluehenry/cypress.demo#readme",
   "devDependencies": {
-    "cypress": "^11.2.0",
+    "cypress": "^13.3.2",
     "cypress-image-snapshot": "^3.0.2",
     "jest": "^29.3.1",
     "mocha": "^10.2.0",
